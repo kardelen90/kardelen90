@@ -34,7 +34,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kardelen90/kardelen90/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
